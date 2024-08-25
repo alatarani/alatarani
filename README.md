@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm A Lata Rani</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400"src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRggxf0Bt4g0VH0mfmC8TjHz5w2sfJp78WPjw&s>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alatarani&label=Profile%20views&color=0e75b6&style=flat" alt="alatarani" /> </p>
+<h3 align="center">A passionate software Engineer from India</h3
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
